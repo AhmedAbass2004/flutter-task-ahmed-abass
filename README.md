@@ -32,5 +32,3 @@ All screenshots are available in the `/Screenshots` folder.
 
 ## 🧑‍💻 Author
 **Ahmed Mohamed Abass**  
-
-## 📂 Project Structure
