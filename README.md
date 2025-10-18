@@ -1,16 +1,36 @@
-# it_legend_task
+# Flutter Task - [Your Full Name]
 
-A new Flutter project.
+### 🎯 Goal
+Implement Flutter UIs accurately, manage data locally using SQLite, and structure the project professionally.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- Pixel-perfect UI based on provided design
+- Local SQLite database
+- State management using Cubit (flutter_bloc)
+- Dependency injection using GetIt
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧰 Tech Stack
+| Layer | Package |
+|-------|----------|
+| State Management | `flutter_bloc` |
+| Database | `sqflite` |
+| Dependency Injection | `get_it` |
+| Responsive Layout | `flutter_screenutil` |
+| Equatable | `equatable` |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼️ Screenshots
+
+All screenshots are available in the `/Screenshots` folder.
+
+---
+
+## 🧑‍💻 Author
+**Ahmed Mohamed Abass**  
+
+## 📂 Project Structure
